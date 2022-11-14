@@ -1,6 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
-import navLogo1 from "../public/react-next.png"
+import Navlogo from "../public/react-next.png"
 import { Element } from "react-scroll";
 
 
@@ -11,8 +11,8 @@ const homePage = () => {
         <div className="flex justify-between text-center md:mx-20 md:pt-32 pt-28 ">
             <div className=" w-3/4 h-96 shadow-xl rounded-full relative px-10 hidden md:block">
                 <Image
-                    src={navLogo1}
-                    alt="navLogo1"
+                    src={Navlogo}
+                    alt="Navlogo"
                     layout="fill"
                     objectFit="cover"
                     className=" rounded-full cursor-pointer hidden md:block"
