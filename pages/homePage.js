@@ -27,7 +27,7 @@ const homePage = () => {
                 Limpopo from a town called Tshilamba but currently staying in Daveyton.
                 I came to Gauteng to further my studies I have completed my National
                 Diploma in Information Technology at Vaal University of Technology and graduated 
-                in May 2020, it was not an Easy Journey for me.
+                in April 2020, it was not an Easy Journey for me.
                 As a fresher I am seeking for Software Development position
                 in a challenging environment where I can utilize my skills and my career paths.
                 </p>
