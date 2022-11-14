@@ -1,6 +1,6 @@
 import React from 'react'
 import Image from 'next/image'
-import navLogo1 from "../public/images/navLogo1.png"
+import navLogo1 from "../public/react-next.png"
 import { Element } from "react-scroll";
 
 
